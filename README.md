@@ -5,3 +5,13 @@
 - 전력 거래량 정보 호출
 
 자세한 내용은 <a href="https://blog.naver.com/tommybee/221561545676"> 블로그</a> 를 참고 하십시오 
+
+다음은 스크린 샷들입니다.
+
+![내 블로그 ](img/blog.png)
+
+![동네예보 XML](img/KMA_XML.png)
+
+![동네예보 JSON ](img/KMA_JSON.png)
+
+![전력거래  ](img/KPX.png)
