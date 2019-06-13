@@ -1,16 +1,7 @@
-jvftp
+# 서비스 클라이언트 - kr_gov_service_client
 
-The source code is originally from the sourceforge site. check the original jvftp <http://jvftp.sourceforge.net/>
+다음 정보를 호출 하기 위한 클라이언트  입니다.
+- 동네 예보 정보 호출
+- 전력 거래량 정보 호출
 
-I've just added a label and a text field 
-so you can change the character set easily if you've got an unexpected characters displaying on a ftp window.
-
-I have tested only one case that is an euc-kr.  
-
-I haven't needed any of dependent libraries for the compilation and building the jvftp.
-
-I always appreciate to the developers of this project.
-
-![Alt text](img/change1.png)
-
-# kr_gov_service_client
+자세한 내용은 <a href="https://blog.naver.com/tommybee/221561545676"> 블로그</a> 를 참고 하십시오 
