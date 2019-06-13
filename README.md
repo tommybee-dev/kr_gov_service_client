@@ -8,7 +8,7 @@
 
 다음은 스크린 샷들입니다.
 
-![내 블로그 ](screenshot/blog.png)
+![내 블로그 ](screenshot/blog.jpg)
 
 ![동네예보 XML](screenshot/KMA_XML.png)
 
