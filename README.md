@@ -8,10 +8,10 @@
 
 다음은 스크린 샷들입니다.
 
-![내 블로그 ](img/blog.png)
+![내 블로그 ](screenshot/blog.png)
 
-![동네예보 XML](img/KMA_XML.png)
+![동네예보 XML](screenshot/KMA_XML.png)
 
-![동네예보 JSON ](img/KMA_JSON.png)
+![동네예보 JSON ](screenshot/KMA_JSON.png)
 
-![전력거래  ](img/KPX.png)
+![전력거래  ](screenshot/KPX.png)
